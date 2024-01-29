@@ -1,1 +1,11 @@
-
+ # Python
+ import requests
+ 
+ api_key = 'place_your_api_key_here'
+ domain = 'example.com'
+ api_url='https://api.whoisdatacenter.com/v1/domain?apiKey={api_key}&domain={domain}'
+ 
+ response = requests.get(api_url)
+ data = response.json()
+ print(data)
+ 
