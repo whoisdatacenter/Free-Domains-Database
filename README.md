@@ -6,7 +6,7 @@ Welcome to our Github Prfile! We're excited to offer you an API key that unlocks
 
 
 <div >
-    <sub>The Project</sub>
+    
     <br />
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <a href="API for this project">API for this project</a> •
