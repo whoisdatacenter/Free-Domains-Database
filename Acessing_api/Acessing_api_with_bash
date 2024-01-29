@@ -1,1 +1,9 @@
+#!/bin/bash
+apiKey="place_your_api_key_here"
+domain="example.com"
+apiUrl="https://api.whoisdatacenter.com/v1/domain?apiKey=${apiKey}&domain=${domain}"
+# Make API request using curl
+response=$(curl -s "$apiUrl")
+# Print the API response
+echo "$response"
 
