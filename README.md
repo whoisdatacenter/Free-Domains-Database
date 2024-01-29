@@ -5,17 +5,17 @@ Welcome to our Github Prfile! We're excited to offer you an API key that unlocks
 
 
 
-<div>
-    
+<div >
+    <sub>The Project</sub>
     <br />
-    <a href="Contributing/contribute.md" >Contributing Guide</a> •
-    <a href="Acessing_api">API for Acessing Data</a> •
-    <a href="license">License</a> •
-    <a href="Output/output.txt">Output</a> •
+    <a href="CONTRIBUTING.md">Contributing Guide</a> •
+    <a href="API for this project">API for this project</a> •
+   
+    <a href="LICENSE">License</a> •
+    <a href="Output o">Output</a> •
     
 
 <br />
-</div>
 
 # Hello and welcome!
 
