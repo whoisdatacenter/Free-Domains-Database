@@ -17,6 +17,7 @@ Welcome to our Github Prfile! We're excited to offer you an API key that unlocks
 # Hello and welcome!
 
 <br/>
+
 •We're excited to announce that you now have direct access to a wealth of domain information through our specially provided URL. 
 
 <br/>
@@ -36,14 +37,32 @@ Welcome to our Github Prfile! We're excited to offer you an API key that unlocks
 **Url-https://whoisdatacenter.com/domains.txt**
 
  Instant Access: Just click on the URL and dive into the world of domain data without any hassle.
+ 
 <br/>
+
 User-Friendly Interface: Our platform ensures that you can navigate and retrieve information effortlessly.
+
 <br/>
+
 Real-Time Data: Stay updated with the latest domain information as our database is continuously refreshed.
+
 <br/>
 
 # Want more free API for Domains Related Data
-Looking for comprehensive insights into domain data? We've got you covered! Our website offers extensive information and advanced features that go beyond what's available here.
+
+<br/>
+
+•Looking for comprehensive insights into domain data? 
+
+<br/>
+
+•We've got you covered! 
+
+<br/>
+
+•Our website offers extensive information and advanced features that go beyond what's available here.
+
+<br/>
 
 
 # 🌟 Exclusive : Dive Deeper into Domain Data! 🌟
