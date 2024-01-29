@@ -47,7 +47,7 @@ Welcome to our Github Prfile! We're excited to offer you an API key that unlocks
 •Real-Time Data: Stay updated with the latest domain information as our database is continuously refreshed.
 <br/>
 
-**Want more free API for Domains Related Data
+**Want more free API for Domains Related Data***
 <br/>
 
 •Looking for comprehensive insights into domain data? 
