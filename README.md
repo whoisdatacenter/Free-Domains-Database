@@ -16,7 +16,7 @@ Welcome to our platform! We're excited to offer you an API key that unlocks a we
 <br />
 
 # Hello and welcome!
-# Url For acessing the domains data
+Url for Acessing the Data
 
 Url-https://whoisdatacenter.com/domains.txt
 
