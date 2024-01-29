@@ -2,7 +2,7 @@
 
 # Introduction
 Welcome to our Github Prfile! We're excited to offer you an API key that unlocks a wealth of information about various domains. This key serves as your gateway to retrieve detailed data about different internet domains quickly and efficiently. 
-
+<style>
 .ash
 {
   background-color: #04AA6D;
@@ -16,7 +16,7 @@ Welcome to our Github Prfile! We're excited to offer you an API key that unlocks
   margin: 4px 2px;
   cursor: pointer;
 }
-
+</style>
 
 <div align="center">
     <sub>The Project</sub>
