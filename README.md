@@ -3,8 +3,9 @@
 # Introduction
 Welcome to our Github Prfile! We're excited to offer you an API key that unlocks a wealth of information about various domains. This key serves as your gateway to retrieve detailed data about different internet domains quickly and efficiently. 
 
-<div align="center">
-  
+<div >
+    <sub style="background-color: yellow; color: black;">The Project</sub>
+
     <br />
     <a href="CONTRIBUTING.md">Contributing Guide</a> •
     <a href="API for this project">API for this project</a> •
