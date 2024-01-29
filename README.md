@@ -34,3 +34,17 @@ Simply click on the link below and embark on your journey to discover and analyz
 
 # Url-https://whoisdatacenter.com/domains.txt
 
+# IMPORTANT INFORMATION
+
+
+🚨 Important Notice: API Request Limit Reached 🚨
+
+To maintain a fair and reliable service for all our users, it's important to note that there is a cap on the number of API requests allowed within a specified time frame. If you're nearing this limit, consider this a friendly heads-up!
+
+What You Need to Know:
+
+Approaching Request Limit: You are close to reaching the maximum number of allowable API requests.
+Preventive Measure: This limit is in place to prevent overuse and ensure consistent service quality for everyone.
+Recommended Action: We suggest pausing your requests for a short period before resuming, to avoid hitting the limit and potentially being temporarily blocked FOR 24 HOURS.
+Thank you for using our services responsibly! 🙏
+
