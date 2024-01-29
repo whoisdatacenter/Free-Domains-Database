@@ -2,26 +2,13 @@
 
 # Introduction
 Welcome to our Github Prfile! We're excited to offer you an API key that unlocks a wealth of information about various domains. This key serves as your gateway to retrieve detailed data about different internet domains quickly and efficiently. 
-<style>
-.ash
-{
-  background-color: #04AA6D;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-</style>
+
+
 
 <div align="center">
     <sub>The Project</sub>
     <br />
-    <a class="ash" href="Contributing/contribute.md">Contributing Guide</a> •
+    <a href="Contributing/contribute.md" style="color🌲">Contributing Guide</a> •
     <a href="Acessing_api">API for Acessing Data</a> •
     <a href="Acessing_api/Acessing_api_with_python">Python Code for accessing api</a> •
     <a href="Acessing_api/Acessing_api_with_bash">Bash Code for accessing api</a> •
