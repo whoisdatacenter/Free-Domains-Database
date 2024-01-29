@@ -87,14 +87,10 @@ Welcome to our Github Prfile! We're excited to offer you an API key that unlocks
 
 **🚨 Important Notice: API Request Limit Reached 🚨**
 
+•Please be aware: If you access this URL more than 30 times, your IP will be blocked for 24 hours as a precautionary measure. We advise monitoring your usage to avoid inconvenience.
 
-To maintain a fair and reliable service for all our users, it's important to note that there is a cap on the number of API requests allowed within a specified time frame. 
-If you're nearing this limit, consider this a friendly heads-up!
+Key Points:
 
-What You Need to Know:
-
-Approaching Request Limit: You are close to reaching the maximum number of allowable API requests.
-Preventive Measure: This limit is in place to prevent overuse and ensure consistent service quality for everyone.
-Recommended Action: We suggest pausing your requests for a short period before resuming, to avoid hitting the limit and potentially being temporarily blocked FOR 24 HOURS.
-Thank you for using our services responsibly! 🙏
-
+•Limit Notification: Your current usage is close to our API request threshold.
+•Purpose: This measure is to prevent overuse and preserve the quality of our services.
+•Recommended Action: Please consider a brief pause in your requests to avoid reaching the limit and a potential temporary 24-hour block.
