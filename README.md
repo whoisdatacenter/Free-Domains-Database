@@ -10,7 +10,7 @@ Welcome to our platform! We're excited to offer you an API key that unlocks a we
     <a href="Acessing_api/Acessing_api_with_bash">Bash Code for accessing api</a> •
     <a href="Acessing_api/Acessing_api_with_php">Php Code for accessing api</a> •
     <a href="license">License</a> •
-    <a href="Output of Serp">Output</a> •
+    <a href="Output/output.png (2).png">Output</a> •
     
 
 <br />
