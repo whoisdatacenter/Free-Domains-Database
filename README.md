@@ -5,7 +5,7 @@ Welcome to our platform! We're excited to offer you an API key that unlocks a we
     <sub>The Project</sub>
     <br />
     <a href="Contributing/contribute.md">Contributing Guide</a> •
-    <a href="Api for Acessing Data">API for Acessing Data</a> •
+    <a href="Acessing_api">API for Acessing Data</a> •
     <a href="Python Code">Python Code for accessing api</a> •
     <a href="Bash Code">Bash Code for accessing api</a> •
     <a href="Php Code">Php Code for accessing api</a> •
