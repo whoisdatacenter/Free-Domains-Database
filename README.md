@@ -8,7 +8,7 @@ Welcome to our Github Prfile! We're excited to offer you an API key that unlocks
 <div align="center">
     <sub>The Project</sub>
     <br />
-    <a href="Contributing/contribute.md" style="color:green;">Contributing Guide</a> •
+    <a href="Contributing/contribute.md" >Contributing Guide</a> •
     <a href="Acessing_api">API for Acessing Data</a> •
     <a href="Acessing_api/Acessing_api_with_python">Python Code for accessing api</a> •
     <a href="Acessing_api/Acessing_api_with_bash">Bash Code for accessing api</a> •
