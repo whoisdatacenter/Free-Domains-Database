@@ -52,12 +52,12 @@ User-Friendly Interface: Navigate easily through a wealth of information.
 # 🔗 Don't Miss Out! Click here to explore: 
 # https://whoisdatacenter.com/api-documentation/
 
-Unlock the full potential of domain data analytics with just one click!
+**Unlock the full potential of domain data analytics with just one click!**
 
 # IMPORTANT INFORMATION
 
 
-🚨 Important Notice: API Request Limit Reached 🚨
+**🚨 Important Notice: API Request Limit Reached 🚨**
 
 To maintain a fair and reliable service for all our users, it's important to note that there is a cap on the number of API requests allowed within a specified time frame. If you're nearing this limit, consider this a friendly heads-up!
 
