@@ -23,7 +23,7 @@ We're excited to announce that you now have direct access to a wealth of domain 
 ### Here's What You Can Do:
 
 <br/>
-Instant Access: Just click on the URL and dive into the world of domain data without any hassle.
+# Instant Access: Just click on the URL and dive into the world of domain data without any hassle.
 <br/>
 User-Friendly Interface: Our platform ensures that you can navigate and retrieve information effortlessly.
 <br/>
