@@ -14,7 +14,7 @@ Familiarize Yourself with the Project: Before contributing, please take some tim
 
  •Create a Pull Request: Once you have completed your addition or improvement, create a pull request to the main repository. In your pull request, reference the issue it addresses.
 
- • for Review: The repository maintainers will review your pull request. Be open to feedback and make necessary changes if requested.
+ • For Review: The repository maintainers will review your pull request. Be open to feedback and make necessary changes if requested.
 
 **Best Practices for Contributions**
  •Quality over Quantity: It's essential to ensure that the domains you're contributing are valid and useful.
