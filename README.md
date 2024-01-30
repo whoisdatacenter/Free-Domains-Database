@@ -7,10 +7,10 @@ Welcome to our Github Prfile! We're excited to offer you an API key that unlocks
     <sub>The Project</sub>
     <br />
     <a href="Contributing/contribute.md">Contributing Guide</a> •
-    <a href="">API for this project</a> •
-    <a href="">Acessing API with different languages</a> •
+    <a href="Acessing_api/Api_URL.md">API for this project</a> •
+    <a href="Acessing_api">Acessing API with different languages</a> •
     <a href="License.md">License</a> •
-    <a href="Output/output.txt">Output of Serp</a> •
+    <a href="Output/output.txt">Output</a> •
     <br />
 
 
