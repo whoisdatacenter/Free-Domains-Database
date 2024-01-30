@@ -1,9 +1,14 @@
 #!/bin/bash
-apiKey="place_your_api_key_here"
-domain="example.com"
-apiUrl="https://api.whoisdatacenter.com/v1/domain?apiKey=${apiKey}&domain=${domain}"
-# Make API request using curl
-response=$(curl -s "$apiUrl")
-# Print the API response
-echo "$response"
 
+api_url="https://api.whoisdatacenter.com/v1/download/free-domains?apiKey={place_your_api_key_here}&date=2024-01-29"
+output_file="free_domains.txt"
+
+# Download the list of free domains
+curl -o "$output_file" "$api_url"
+
+# Check if the download was successful
+if [ $? -eq 0 ]; then
+echo "Download successful. Free domains saved to $output_file"
+else
+echo "Error downloading free domains."
+fi
