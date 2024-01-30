@@ -47,7 +47,7 @@ To ensure a fair and reliable service for everyone, please be aware that we have
 Here's what you need to know:
 - After a certain number of hits, your API requests may be temporarily blocked.
 - This is a protective measure to prevent abuse and maintain service quality.
-- To continue using the SERP tool, we recommend waiting for a bit before making additional requests.
+
 
 
 
