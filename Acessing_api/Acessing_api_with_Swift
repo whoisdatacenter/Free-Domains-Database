@@ -1,0 +1,7 @@
+import Foundation
+
+let apiURL = URL(string: "https://api.whoisdatacenter.com/v1/download/free-domains?apiKey={place_your_api_key_here}&date=2024-01-29")!
+let destinationURL = URL(fileURLWithPath: "downloaded_data.zip")
+
+let data = try! Data(contentsOf: apiURL)
+try! data.write(to: destinationURL)
