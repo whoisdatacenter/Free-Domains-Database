@@ -1,8 +1,10 @@
 # Free-Domains-Database
 
 # Introduction
-Welcome to our Github Profile! We're excited to offer you an API key that unlocks a wealth of information about various domains. This key serves as your gateway to retrieve detailed data about different internet domains quickly and efficiently. 
----
+
+**Welcome to our Github Profile! We're excited to offer you an API key that unlocks a wealth of information about various domains. This key serves as your gateway to retrieve detailed data about different internet domains quickly and efficiently.**
+
+___
 <div >
     <sub>The Project</sub>
     <br />
@@ -13,7 +15,7 @@ Welcome to our Github Profile! We're excited to offer you an API key that unlock
     <a href="Output/output.txt">Output</a> •
     <br />
 
----
+___
 # Hello and welcome!
 
 <br/>
@@ -31,6 +33,7 @@ Welcome to our Github Profile! We're excited to offer you an API key that unlock
 
 
 <br/>
+___
 
 # URL-https://whoisdatacenter.com/domains.txt
 
@@ -44,6 +47,7 @@ Welcome to our Github Profile! We're excited to offer you an API key that unlock
 
 
 <br/>
+___
 
 **Want more free API for Domains Related Data***
 
@@ -60,10 +64,12 @@ Welcome to our Github Profile! We're excited to offer you an API key that unlock
 
 <br/>
 
+___
 # 🌟 Exclusive : Dive Deeper into Domain Data! 🌟
 
 **Visit Our Website**
 
+___
 
 •More Data: Access a wider range of domain-related data.
 <br/>
@@ -83,10 +89,10 @@ Welcome to our Github Profile! We're excited to offer you an API key that unlock
 
 <br/>
 
-
+___
 # IMPORTANT INFORMATION
 
-
+___
 **🚨 Important Notice: API Request Limit Reached 🚨**
 
 •Please be aware: If you access this URL more than 30 times, your IP will be blocked for 24 hours as a precautionary measure. We advise monitoring your usage to avoid inconvenience.
