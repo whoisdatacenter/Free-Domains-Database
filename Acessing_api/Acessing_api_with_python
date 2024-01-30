@@ -1,11 +1,5 @@
- # Python
- import requests
- 
- api_key = 'place_your_api_key_here'
- domain = 'example.com'
- api_url='https://api.whoisdatacenter.com/v1/domain?apiKey={api_key}&domain={domain}'
- 
- response = requests.get(api_url)
- data = response.json()
- print(data)
- 
+# Python
+import urllib.request
+
+api_url='https://api.whoisdatacenter.com/v1/download/free-domains?apiKey={place_your_api_key_here}&date=2024-01-29'
+urllib.request.urlretrieve(api_url, 'downloaded_data.zip')
