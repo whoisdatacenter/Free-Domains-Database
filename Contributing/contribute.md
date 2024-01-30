@@ -18,11 +18,16 @@ Familiarize Yourself with the Project: Before contributing, please take some tim
 
 **Best Practices for Contributions**
  •Quality over Quantity: It's essential to ensure that the domains you're contributing are valid and useful.
+ 
  •Avoid Duplicates: Double-check to avoid adding domains that are already in the list.
+ 
  •Provide Sources: If applicable, provide sources or references for the domains you're adding.
+ 
  •Be Respectful: Adhere to our code of conduct, particularly when interacting with the community and maintainers.
 Code of Conduct
+
  •This project adheres to a code of conduct which all contributors are expected to follow. This includes respecting fellow contributors, maintaining a constructive environment, and being mindful of your actions. For full details, please refer to the CODE_OF_CONDUCT.md file in the repository.
+ 
 
 **Questions or Suggestions?**
  •If you have any questions or suggestions regarding the contribution process, please feel free to create an issue for discussion or reach out to the repository maintainers directly.
