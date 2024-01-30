@@ -1,26 +1,18 @@
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
+import java.io.FileOutputStream;
+import java.io.InputStream;
 import java.net.URL;
-
-public class DomainInfo {
+import java.net.URLConnection;
+public class DownloadData {
 public static void main(String[] args) throws Exception {
-String apiKey = "place_your_api_key_here";
-String domain = "example.com";
-String apiUrl = "https://api.whoisdatacenter.com/v1/domain?apiKey = " + apiKey + "&domain=" + domain;
-
-URL url = new URL(apiUrl);
-HttpURLConnection connection = (HttpURLConnection) url.openConnection();
-
-try (BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()))) {
-String line;
-StringBuilder response = new StringBuilder();
-while ((line = reader.readLine()) != null) {
-response.append(line);
+String apiURL = "https://api.whoisdatacenter.com/v1/download/free-domains?apiKey={place_your_api_key_here}&date=2024-01-29";
+URL url = new URL(apiURL);
+try (InputStream in = url.openStream();
+FileOutputStream fos = new FileOutputStream("downloaded_data.zip")) {
+byte[] buffer = new byte[1024];
+int bytesRead;
+while ((bytesRead = in.read(buffer)) != -1) {
+fos.write(buffer, 0, bytesRead);
 }
-System.out.println(response.toString());
-} finally {
-connection.disconnect();
 }
 }
 }
