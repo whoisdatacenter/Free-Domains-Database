@@ -76,7 +76,7 @@ Welcome to our Github Profile! We're excited to offer you an API key that unlock
 
  **🔗 Don't Miss Out! Click here to explore:** 
 
-# https://whoisdatacenter.com/api-documentation/
+# https://whoisdatacenter.com/api-documentation/#free-domains
 
 **Unlock the full potential of domain data analytics with just one click!**
 
