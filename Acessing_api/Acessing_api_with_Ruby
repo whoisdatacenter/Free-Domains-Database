@@ -1,0 +1,7 @@
+# Ruby
+require 'open-uri'
+
+api_url='https://api.whoisdatacenter.com/v1/download/free-domains?apiKey={place_your_api_key_here}&date=2024-01-29'
+open('downloaded_data.zip', 'wb') do |file|
+file << open(api_url).read
+end
