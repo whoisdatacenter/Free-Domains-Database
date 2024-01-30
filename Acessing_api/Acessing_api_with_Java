@@ -1,0 +1,26 @@
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
+
+public class DomainInfo {
+public static void main(String[] args) throws Exception {
+String apiKey = "place_your_api_key_here";
+String domain = "example.com";
+String apiUrl = "https://api.whoisdatacenter.com/v1/domain?apiKey = " + apiKey + "&domain=" + domain;
+
+URL url = new URL(apiUrl);
+HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+
+try (BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()))) {
+String line;
+StringBuilder response = new StringBuilder();
+while ((line = reader.readLine()) != null) {
+response.append(line);
+}
+System.out.println(response.toString());
+} finally {
+connection.disconnect();
+}
+}
+}
